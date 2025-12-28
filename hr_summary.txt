@@ -1,0 +1,10 @@
+HR Attrition Analysis Summary
+
+- The department with the highest attrition rate is Sales.
+- The job role with the highest attrition rate is Sales Representative.
+- Attrition is not evenly distributed and appears concentrated in specific roles and departments.
+
+Recommended Actions:
+- Prioritize retention strategies for high-risk roles.
+- Review compensation and growth opportunities in high-attrition departments.
+- Strengthen early-tenure engagement programs.
